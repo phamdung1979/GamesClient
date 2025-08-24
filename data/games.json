@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "gamename": "Minecraft",
+        "description": "Minecraft là thế giới 3D hình khối được tạo ngẫu nhiên với địa hình gần như vô hạn, đồng thời có thể khám phá và khai thác...",
+        "image": "./image/Minecraft.jpeg",
+        "detail": "https://www.minecraft.net",
+        "category": "Survival",
+        "price": 99000
+    },
+    {
+        "id": 2,
+        "gamename": "Halo Infinite",
+        "description": "Từ một trong những series game mang tính biểu tượng nhất, Halo giờ đây lớn mạnh hơn bao giờ hết. Có chiến dịch thế giới mở rộng lớn và trải nghiệm nhiều người chơi miễn phí năng động.",
+        "image": "./image/HaloInfinite.jpg",
+        "detail": "https://www.xbox.com/en-GB/games/halo-infinite",
+        "category": "FPS",
+        "price": 0
+    },
+    {
+        "id": 3,
+        "gamename": "Counter Strike 2",
+        "description": "Trong 2 thập kỷ qua, Counter-Strike đã mang lại trải nghiệm thi đấu cao cấp, được nhào nặn bởi hàng triệu người chơi trên toàn cầu. Và giờ chương tiếp theo của câu chuyện CS chuẩn bị khởi màn.",
+        "image": "./image/CS2.jpeg",
+        "detail": "https://www.counter-strike.net/cs2",
+        "category": "FPS",
+        "price": 0
+    },
+    {
+        "id": 4,
+        "gamename": "Marvel's Spider-Man",
+        "description": "Bạn sẽ hoá thân mình trở thành Spider-Man trong một câu chuyện gốc hành động ngẹt thở. Vào vai Peter Parker đầy kinh nghiệm, chiến đấu với tội phạm lớn và những nhân vật phản diện tiêu biểu trong New York của Marvel.",
+        "image": "./image/SpiderMan.jpg",
+        "detail": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/",
+        "category": "RPG",
+        "price": 1199000
+    },
+    {
+        "id": 5,
+        "gamename": "Black Myth Wukong",
+        "description": "Black Myth: Wukong là game nhập vai hành động lấy cảm hứng từ thần thoại Trung Quốc. Bạn sẽ vào vai Người Được Chọn, dấn thân vào những thử thách và điều kỳ diệu phía trước, khám phá sự thật ẩn giấu dưới lớp màn huyền thoại huy hoàng từ quá khứ.",
+        "image": "./image/BlackMythWukong.jpg",
+        "detail": "https://store.steampowered.com/app/2358720/Black_Myth_Wukong/",
+        "category": "RPG",
+        "price": 1099000
+    },
+    {
+        "id": 6,
+        "gamename": "Sifu",
+        "description": "Sifu là game đối kháng góc nhìn thứ ba thực tế với cơ chế chiến đấu Kung Fu chặt chẽ và hành động võ thuật điện ảnh đưa bạn vào con đường trả thù.",
+        "image": "./image/Sifu.jpg",
+        "detail": "https://store.steampowered.com/app/2138710/Sifu/",
+        "category": "RPG",
+        "price": 349900
+    },
+    {
+        "id": 7,
+        "gamename": "Doom Eternal",
+        "description": "Đội quân của Địa ngục đã xâm chiếm Trái đất. Trở thành Doom Slayer trong chiến dịch chơi đơn hoành tráng để đánh bại quỷ dữ trên khắp các chiều không gian và ngăn chặn sự hủy diệt cuối cùng của nhân loại. Điều duy nhất chúng sợ... là bạn.",
+        "image": "./image/DoomEternal.jpeg",
+        "detail": "https://store.steampowered.com/app/782330/DOOM_Eternal/",
+        "category": "FPS",
+        "price": 449900
+    },
+    {
+        "id": 8,
+        "gamename": "Devil May Cry 5",
+        "description": "Thợ Săn Quỷ đỉnh cao đã trở lại theo phong cách mà người hâm mộ trò chơi hành động đang chờ đợi.",
+        "image": "./image/DMC5.jpg",
+        "detail": "https://store.steampowered.com/app/601150/Devil_May_Cry_5/",
+        "category": "RPG",
+        "price": 149900
+    },
+    {
+        "id": 9,
+        "gamename": "God of War",
+        "description": "Cuộc trả thù các Vị thần trên đỉnh Olympus của Kratos đã lùi dần vào dĩ vãng. Giờ đây, Kratos sống ẩn mình như một người đàn ông bình thường trong mảnh đất nơi các vị thần và quái vật Bắc Âu thống trị. Nhưng chính trong thế giới nghiệt ngã, không khoan nhượng này, ông phải chiến đấu để tồn tại.",
+        "image": "./image/GoW.jpg",
+        "detail": "https://store.steampowered.com/app/1593500/God_of_War/",
+        "category": "RPG",
+        "price": 1149900
+    },
+    {
+        "id": 10,
+        "gamename": "Grand Theft Auto 5",
+        "description": "Thiết kế thế giới mở cho phép người chơi tự do khám phá vùng nông thôn của San Andreas cũng như thành phố hư cấu Los Santos",
+        "image": "./image/GTA5.jpg",
+        "detail": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/",
+        "category": "RPG",
+        "price": 1149900
+    },
+    {
+        "id": 11,
+        "gamename": "Uncharted 4",
+        "description": "Nhập vai Nathan Drake và Chloe Frazer trong chuyến phiêu lưu của riêng họ khi đối mặt với quá khứ và tạo nên di sản cho mình.",
+        "image": "./image/Uncharted4.jpg",
+        "detail": "https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/",
+        "category": "RPG",
+        "price": 990000
+    },
+    {
+        "id": 12,
+        "gamename": "Red Dead Redemption 2",
+        "description": "RDR2 là câu chuyện sử thi về tên tội phạm Arthur Morgan và băng đảng Van der Linde khét tiếng, đang chạy trốn khắp nước Mỹ vào buổi bình minh của thời hiện đại",
+        "image": "./image/rdr2.png",
+        "detail": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+        "category": "RPG",
+        "price": 1299000
+    }
+]

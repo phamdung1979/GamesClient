@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "PUBG",
+        "update": "Cập nhật 1 tháng trước",
+        "description": "Trong trò chơi, sẽ có tối đa 100 người chơi sẽ nhảy dù xuống một hòn đảo lớn. Người chơi sau đó phải nhanh chóng nhặt đồ dùng, vũ khí, phương tiện...",
+        "image": "./image/PUBG.jpg",
+        "detail": "",
+        "category": "Survival"
+    },
+    {
+        "id": 2,
+        "title": "Halo Infinite",
+        "update": "Cập nhật 2 tháng trước",
+        "description": "Từ một trong những series game mang tính biểu tượng nhất, Halo giờ đây lớn mạnh hơn bao giờ hết. Có chiến dịch thế giới mở rộng lớn và trải nghiệm...",
+        "image": "./image/HaloInfinite.jpg",
+        "detail": "",
+        "category": "FPS"
+    },
+    {
+        "id": 3,
+        "title": "Counter Strike 2",
+        "update": "Cập nhật 2 tháng trước",
+        "description": "Trong 2 thập kỷ qua, Counter-Strike đã mang lại trải nghiệm thi đấu cao cấp, được nhào nặn bởi hàng triệu người chơi trên toàn cầu.",
+        "image": "./image/CS2.jpeg",
+        "detail": "",
+        "category": "FPS"
+    },
+    {
+        "id": 4,
+        "title": "Apex Legends",
+        "update": "Cập nhật 3 tháng trước",
+        "description": "Mỗi trận đấu sẽ có 60 người chơi chia thành 20 đội, mỗi đội 3 người. Một thành viên trong đội sẽ điều khiển vị trí hạ cánh khi trận đấu bắt đầu...",
+        "image": "./image/apex.jpg",
+        "detail": "",
+        "category": "RPG"
+    }
+]

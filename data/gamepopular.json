@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Minecraft",
+        "update": "Cập nhật 1 tháng trước",
+        "description": "Minecraft là thế giới 3D hình khối được tạo ngẫu nhiên với địa hình gần như vô hạn, đồng thời có thể khám phá và khai thác...",
+        "image": "./image/Minecraft.jpeg",
+        "detail": "https://www.minecraft.net",
+        "category": "Survival"
+    },
+    {
+        "id": 2,
+        "title": "Halo Infinite",
+        "update": "Cập nhật 2 tháng trước",
+        "description": "Từ một trong những series game mang tính biểu tượng nhất, Halo giờ đây lớn mạnh hơn bao giờ hết. Có chiến dịch thế giới mở rộng lớn và trải nghiệm...",
+        "image": "./image/HaloInfinite.jpg",
+        "detail": "https://www.xbox.com/en-GB/games/halo-infinite",
+        "category": "FPS"
+    },
+    {
+        "id": 3,
+        "title": "Counter Strike 2",
+        "update": "Cập nhật 2 tháng trước",
+        "description": "Trong 2 thập kỷ qua, Counter-Strike đã mang lại trải nghiệm thi đấu cao cấp, được nhào nặn bởi hàng triệu người chơi trên toàn cầu.",
+        "image": "./image/CS2.jpeg",
+        "detail": "https://www.counter-strike.net/cs2",
+        "category": "FPS"
+    },
+    {
+        "id": 4,
+        "title": "Marvel's Spider-Man",
+        "update": "Cập nhật 3 tháng trước",
+        "description": "Bạn sẽ hoá thân mình trở thành Spider-Man trong một câu chuyện gốc hành động ngẹt thở. Vào vai Peter Parker đầy kinh nghiệm, chiến đấu với tội phạm...",
+        "image": "./image/SpiderMan.jpg",
+        "detail": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/",
+        "category": "RPG"
+    }
+]

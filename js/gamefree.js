@@ -11,7 +11,7 @@ const getFreeGame = async () => {
                 <div class="card-body">
                     <h5 class="card-title">${item.title}</h5>
                     <p class="card-text">${item.description}</p>
-                    <a href="" class="btn btn-dark">Xem chi tiết</a>
+                    <a href="./game_detail.html?id=${item.id}" class="btn btn-dark">Xem chi tiết</a>
                 </div>
                 <div class="card-footer">
                     <small class="text-body-secondary">${item.update}</small>

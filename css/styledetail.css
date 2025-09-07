@@ -42,6 +42,16 @@
 .game-info > h4 {
     position: absolute;
     bottom: 50px;
+    color: #198754;
+}
+.game-info > p {
+    margin-bottom: 5px;
+}
+.game-info > h5 {
+    margin-bottom: 10px;
+}
+.game-info > h6 {
+    margin-bottom: 5px;
 }
 .game-info > button {
     position: absolute;

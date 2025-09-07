@@ -15,6 +15,7 @@ const login = (event) => {
 
     if (storedUser && storedUser.password === password) {
         alert("Đăng nhập thành công!");
+        localStorage.setItem("loggedIn", JSON.stringify(storedUser));
         window.location.href = "./index.html";
     }else{
         alert("Email hoặc mật khẩu chưa đúng")

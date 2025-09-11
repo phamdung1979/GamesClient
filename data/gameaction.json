@@ -1,0 +1,58 @@
+[
+    {
+        "id": 2,
+        "title": "Halo Infinite",
+        "description": "Từ một trong những series game mang tính biểu tượng nhất, Halo giờ đây lớn mạnh hơn bao giờ hết. Có chiến dịch thế giới mở rộng lớn và trải nghiệm nhiều người chơi miễn phí năng động.",
+        "image": "./image/HaloInfinite.jpg",
+        "category": "FPS"
+    },
+    {
+        "id": 4,
+        "title": "Marvel's Spider-Man",
+        "description": "Bạn sẽ hoá thân mình trở thành Spider-Man trong một câu chuyện gốc hành động ngẹt thở. Vào vai Peter Parker đầy kinh nghiệm, chiến đấu với tội phạm lớn và những nhân vật phản diện tiêu biểu trong New York.",
+        "image": "./image/SpiderMan.jpg",
+        "category": "RPG"
+    },
+    {
+        "id": 5,
+        "title": "Black Myth Wukong",
+        "description": "Black Myth: Wukong là game nhập vai hành động lấy cảm hứng từ thần thoại Trung Quốc. Bạn sẽ vào vai Người Được Chọn, dấn thân vào những thử thách và điều kỳ diệu phía trước, khám phá sự thật ẩn giấu dưới lớp màn huyền thoại huy hoàng từ quá khứ.",
+        "image": "./image/BlackMythWukong.jpg",
+        "category": "RPG"
+    },
+    {
+        "id": 6,
+        "title": "Sifu",
+        "description": "Sifu là game đối kháng góc nhìn thứ ba thực tế với cơ chế chiến đấu Kung Fu chặt chẽ và hành động võ thuật điện ảnh đưa bạn vào con đường trả thù.",
+        "image": "./image/Sifu.jpg",
+        "category": "RPG"
+    },
+    {
+        "id": 7,
+        "title": "DOOM: The Dark Ages",
+        "description": "Người chơi sẽ bước vào vai DOOM Slayer đẫm máu, trong cuộc chiến thời trung cổ đen tối và nham hiểm chưa từng thấy chống lại Địa ngục. Điều duy nhất chúng sợ... là bạn.",
+        "image": "./image/DOOMthedarkages.png",
+        "category": "FPS"
+    },
+    {
+        "id": 8,
+        "title": "Devil May Cry 5",
+        "description": "Thợ Săn Quỷ đỉnh cao đã trở lại theo phong cách mà người hâm mộ trò chơi hành động đang chờ đợi.",
+        "image": "./image/DMC5.jpg",
+        "category": "RPG"
+    },
+    {
+        "id": 10,
+        "title": "Grand Thief Auto 5",
+        "description": "Thiết kế thế giới mở cho phép người chơi tự do khám phá vùng nông thôn của San Andreas cũng như thành phố hư cấu Los Santos.",
+        "image": "./image/GTA5.jpg",
+        "category": "RPG"
+    },
+    {
+        "id": 11,
+        "title": "Uncharted 4",
+        "description": "Nhập vai Nathan Drake và Chloe Frazer trong chuyến phiêu lưu của riêng họ khi đối mặt với quá khứ và tạo nên di sản cho mình.",
+        "image": "./image/Uncharted4.jpg",
+        "category": "RPG"
+    }
+]

@@ -24,7 +24,7 @@
         "agerequire": 16,
         "detail": "https://www.xbox.com/en-GB/games/halo-infinite",
         "category": "FPS",
-        "price": "Free",
+        "price": "Miễn phí",
         "req": {"os": "Windows 10 RS5 hoặc Windows 11 (64-bit)", "cpu": "Intel Core i5-4440 hoặc AMD Ryzen 5 1600", "ram": "8GB", "graphic": "Intel Arc A310, AMD Radeon RX 570 hoặc NVIDIA GeForce GTX 1050 Ti", "sound": "Âm thanh tiêu chuẩn", "storage":"50GB"}
     },
     {
@@ -38,13 +38,13 @@
         "agerequire": 17,
         "detail": "https://www.counter-strike.net/cs2",
         "category": "FPS",
-        "price": "Free",
-        "req": {"os": "Windows 10/11 (64-bit)", "cpu": "2 nhân trở lên", "ram": "8GB", "graphic": "Hỗ trợ DirectX 11, Shader Model 5.0 và 1GB vRAM trở lên", "sound": "Âm thanh tiêu chuẩn", "storage": "80GB"}
+        "price": "Miễn phí",
+        "req": {"os": "Windows 10/11 (64-bit)", "cpu": "2 nhân trở lên, 2GHz hoặc hơn", "ram": "8GB", "graphic": "Hỗ trợ DirectX 11, Shader Model 5.0 và 1GB vRAM trở lên", "sound": "Âm thanh tiêu chuẩn", "storage": "80GB"}
     },
     {
         "id": 4,
         "gamename": "Marvel's Spider-Man",
-        "description": "Bạn sẽ hoá thân mình trở thành Spider-Man trong một câu chuyện gốc hành động ngẹt thở. Vào vai Peter Parker đầy kinh nghiệm, chiến đấu với tội phạm lớn và những nhân vật phản diện tiêu biểu trong New York của Marvel.",
+        "description": "Bạn sẽ hoá thân mình trở thành Spider-Man trong một câu chuyện gốc hành động ngẹt thở. Vào vai Peter Parker đầy kinh nghiệm, chiến đấu với tội phạm lớn và những nhân vật phản diện tiêu biểu trong New York.",
         "date": "12/08/2022",
         "developer": "Insomniac Games, Nixxes Software",
         "publisher": "Playstation Publishing LLC",
@@ -128,7 +128,7 @@
     {
         "id": 10,
         "gamename": "Grand Theft Auto 5 Enhanced",
-        "description": "Thiết kế thế giới mở cho phép người chơi tự do khám phá vùng nông thôn của San Andreas cũng như thành phố hư cấu Los Santos",
+        "description": "Thiết kế thế giới mở cho phép người chơi tự do khám phá vùng nông thôn của San Andreas cũng như thành phố hư cấu Los Santos.",
         "date": "04/03/2025",
         "developer": "Rockstar North",
         "publisher": "Rockstar Games",
@@ -166,5 +166,47 @@
         "category": "RPG",
         "price": "1.299.000Đ",
         "req": {"os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5-2500K hoặc AMD FX 6300", "ram": "8GB", "graphic": "NVIDIA GeForce GTX 770, Intel Arc A310 hoặc AMD Radeon R9 280", "sound": "Âm thanh tiêu chuẩn", "storage": "150GB"}
+    },
+    {
+        "id": 13,
+        "gamename": "Outlast",
+        "description": "Outlast kể về cuộc phiêu lưu của nhà báo tự do Miles Upshur đang trên đường khám phá những bí ẩn bên trong một bệnh viện tâm thần nằm sâu tại dãy núi tại Lake County, Colorado.",
+        "date": "04/09/2013",
+        "developer": "Red Barrels",
+        "publisher": "Red Barrels",
+        "image": "./image/outlast.jpg",
+        "agerequire": 18,
+        "detail": "https://store.steampowered.com/app/238320/Outlast/",
+        "category": "Horror",
+        "price": "199.000Đ",
+        "req": {"os": "Windows 10/11 (64-bit)", "cpu": "2 nhân trở lên, 2.2GHz hoặc hơn", "ram": "4GB", "graphic": "NVIDIA GeForce 9800GTX, Intel UHD 770 hoặc ATI Radeon HD 3xxx series", "sound": "Âm thanh tiêu chuẩn", "storage": "5GB"}
+    },
+    {
+        "id": 14,
+        "gamename": "PUBG",
+        "description": "Trong trò chơi, sẽ có tối đa 100 người chơi sẽ nhảy dù xuống một hòn đảo lớn. Người chơi sau đó phải nhanh chóng nhặt đồ dùng, vũ khí, phương tiện di chuyển và các trang thiết bị cần thiết để có thể sinh tồn, kết hợp với việc tiêu diệt những người chơi khác đồng thời tránh bị họ giết.",
+        "date": "20/12/2017",
+        "developer": "KRAFTON Corporation",
+        "publisher": "KRAFTON Corporation",
+        "image": "./image/PUBG.jpg",
+        "agerequire": 16,
+        "detail": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/",
+        "category": "Survival",
+        "price": "199.000Đ",
+        "req": {"os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i5-4430 hoặc AMD FX 6300", "ram": "8GB", "graphic": "NVIDIA GeForce GTX 960 2GB, Intel Arc A310 hoặc AMD Radeon R7 370 2GB", "sound": "Âm thanh tiêu chuẩn", "storage": "45GB"}
+    },
+    {
+        "id": 15,
+        "gamename": "Apex Legends",
+        "description": "Mỗi trận đấu sẽ có 60 người chơi chia thành 20 đội, mỗi đội 3 người. Một thành viên trong đội sẽ điều khiển vị trí hạ cánh khi trận đấu bắt đầu. Sau đó, các đội sẽ phải tìm kiếm vũ khí, vật dụng hỗ trợ như áo giáp, hồi máu, hồi giáp để chiến đấu với những đội chơi khác cho tới khi còn lại duy nhất một đội cuối cùng.",
+        "date": "05/11/2020",
+        "developer": "Respawn",
+        "publisher": "Electronic Arts",
+        "image": "./image/apex.jpg",
+        "agerequire": 16,
+        "detail": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+        "category": "FPS",
+        "price": "Miễn phí",
+        "req": {"os": "Windows 10/11 (64-bit)", "cpu": "Intel Core i3-6300 hoặc AMD FX 4350", "ram": "6GB", "graphic": "NVIDIA GeForce GTX 950, Intel Arc A310 hoặc AMD Radeon HD 7790", "sound": "Âm thanh tiêu chuẩn", "storage": "75GB"}
     }
 ]
